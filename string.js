@@ -1,2 +1,2 @@
 let curso = "Javascript";
-console.log(curso.replace("Javascript" ,"php"));
+console.log(curso.split("-"));
