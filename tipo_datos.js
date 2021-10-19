@@ -1,3 +1,3 @@
 var tipo;
-tipo = 123;
+tipo = true;
 console.log(typeof tipo);
