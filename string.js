@@ -1,2 +1,2 @@
-let color = "rojo  \nverde";
-console.log(color);
+let fruta = "manzana";
+console.log(fruta.length);
