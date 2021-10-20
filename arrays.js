@@ -1,2 +1,2 @@
 var estudiantes = ["carlos", "maria", "jose"];
-console.log(estudiantes.reverse());
+console.log(estudiantes.sort());
