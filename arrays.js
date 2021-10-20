@@ -1,2 +1,3 @@
 var estudiantes = ["carlos", "maria", "jose"];
-console.log(estudiantes.sort());
+console.log(estudiantes.push("luis"));
+console.log(estudiantes);
