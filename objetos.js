@@ -1,7 +1,6 @@
-const auto = {
-    marca: "toyota",
-    modelo: 2018,
-    color: "azul",
-    accesorios: ["parabrisas", "motor", "ruedas"]
+const persona = {
+    nombre: "Alex",
+    pelo: "liso",
+    
 }
 console.log(auto.accesorios);
