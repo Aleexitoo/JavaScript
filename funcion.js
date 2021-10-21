@@ -1,8 +1,4 @@
-function dato_trabajador(){
-    var salario = 2550;
-    return salario;
-
+var resta = function (n1,n2) {
+    return n1 - n2;
 }
-
-var obrero = dato_trabajador();
-console.log(obrero);
+console.log(resta(8,2));
