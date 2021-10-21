@@ -1,9 +1,19 @@
-var A = 8;
-var B = 4;
-var C = 6;
-if (A > C && A > B){
-    console.log(`${A} es mayor a: ${C}`)
-}
-else{
-    console.log(`${A} es mayor a: ${B}`)
+let curso = "javascript";
+
+switch (curso) {
+    case "java":
+        console.log("java");
+        break;
+    case "python":
+            
+            console.log("python");
+        break;
+
+     case "javascript":
+             console.log("javascript")
+         break;
+
+    default:
+        console.log("no disponible")
+        break;
 }
