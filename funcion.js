@@ -1,4 +1,8 @@
-function suma(a,b){
-var sum = a + b;
-console.log("la suma es: "+ sum)
-} 
+function dato_trabajador(){
+    var salario = 2550;
+    return salario;
+
+}
+
+var obrero = dato_trabajador();
+console.log(obrero);
